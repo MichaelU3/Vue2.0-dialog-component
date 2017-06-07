@@ -96,5 +96,5 @@ export default {
 
 ## DEMO Screen Shot 
 
-![](){https://github.com/MichaelU3/Vue2.0-dialog-component/screenshots/demo.png}
+![](){https://github.com/MichaelU3/Vue2.0-dialog-component/demo.png}
 
